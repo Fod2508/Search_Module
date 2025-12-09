@@ -1,0 +1,5 @@
+YÊU CẦU CHỨC NĂNG MODULE TÌM KIẾM
+
+1. Tìm kiếm theo tên key word
+2. Gợi y từ khóa
+7. Tìm kiếm bằng bộ lọc (size, màu,...)
