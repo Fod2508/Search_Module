@@ -3,8 +3,8 @@ NHÓM: [Tên nhóm]
 
 DANH SÁCH THÀNH VIÊN VÀ ĐÓNG GÓP:
 1. Nguyễn Hồng Phúc (Nhóm trưởng): 100%
-2. Nguyễn Nhật Băng Băng: 80%
-3. Lê Thị Thuỷ Tiên: 80%
-4. Nguyễn Đức Quang: 80%
-5. Trần Hoàng Hiếu: 80% 
-6. Chu Thị Ngọc Bích: 80%
+2. Nguyễn Nhật Băng Băng: 90%
+3. Lê Thị Thuỷ Tiên: 90%
+4. Nguyễn Đức Quang: 90%
+5. Trần Hoàng Hiếu: 90% 
+6. Chu Thị Ngọc Bích: 90%
