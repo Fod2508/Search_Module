@@ -1,7 +1,7 @@
 HƯỚNG DẪN CÀI ĐẶT VÀ CHẠY DỰ ÁN
 
 1. Yêu cầu hệ thống:
-   - Java JDK 1.8 trở lên
+   - Java JDK 21 trở lên
    - Apache Tomcat 9.0
    - SQL Server
    - IDE: Eclipse (khuyên dùng)
