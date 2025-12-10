@@ -34,3 +34,5 @@ HƯỚNG DẪN CÀI ĐẶT VÀ CHẠY DỰ ÁN
    - Tìm kiếm sản phẩm theo tên.
    - Lọc theo khoảng giá, size, màu sắc.
    - Gợi ý từ khóa thông minh.
+   - Gợi ý sản phẩm nếu không tìm thấy 
+=
